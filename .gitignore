@@ -210,3 +210,5 @@ __marimo__/
 data/config.py
 data/fox.db
 data/my_account*
+data/top.json
+data/*.log
