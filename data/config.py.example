@@ -1,0 +1,12 @@
+# токен бота. получить от @botfather
+bot_token = "12312313:abcdefghijk"
+
+# api_id и api_hash получить на my.telegram.org
+api_id = 12312312
+api_hash = "23b11n3n4b41123"
+
+# префиксы команд
+command_prefixes = ["/", "!", "."]
+
+# прочее
+version = "0.0.0.1"
